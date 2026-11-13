@@ -902,9 +902,9 @@ obsidianCachePaths = {
 }
 
 obsidianUrls = {
-    Library = "https://raw.githubusercontent.com/white558/Obsidian/main/Library.lua",
-    SaveManager = "https://raw.githubusercontent.com/white558/Obsidian/main/addons/SaveManager.lua",
-    ThemeManager = "https://raw.githubusercontent.com/white558/Obsidian/main/addons/ThemeManager.lua"
+    Library = "https://raw.githubusercontent.com/boniloyzin-cloud/....kakak/refs/heads/main/Library.lua.txt",
+    SaveManager = "https://raw.githubusercontent.com/boniloyzin-cloud/Urueueue/refs/heads/main/SaveManager.lua.txt",
+    ThemeManager = "https://raw.githubusercontent.com/boniloyzin-cloud/Aoaoaoao/refs/heads/main/ThemeManager.lua%20(1).txt"
 }
 ensureFolderForFile = function(filePath)
     if typeof(isfolder) ~= "function" or typeof(makefolder) ~= "function" then
